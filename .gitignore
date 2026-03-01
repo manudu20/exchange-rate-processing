@@ -1,2 +1,2 @@
-*.xlsx
+output/*.xlsx
 .venv_manu/
